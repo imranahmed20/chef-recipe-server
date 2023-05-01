@@ -1,0 +1,36 @@
+{
+    "id": 1,
+    "name": "John Smith",
+    "image": "https://example.com/john-smith.jpg",
+    "experience": "10 years",
+    "numOfRecipes": 50,
+    "likes": 1000,
+    "recipes": [
+        {
+            "id": 1,
+            "title": "Pesto Pasta",
+            "ingredients": [
+                "pasta",
+                "basil",
+                "pine nuts",
+                "garlic"
+            ],
+            "instructions": "Cook the pasta. Blend the basil, pine nuts, and garlic. Mix with pasta.",
+            "image": "https://example.com/pesto-pasta.jpg",
+            "likes": 500
+        },
+        {
+            "id": 2,
+            "title": "Chocolate Cake",
+            "ingredients": [
+                "flour",
+                "sugar",
+                "cocoa powder",
+                "eggs"
+            ],
+            "instructions": "Mix all the ingredients together. Bake in the oven.",
+            "image": "https://example.com/chocolate-cake.jpg",
+            "likes": 700
+        }
+    ]
+}
