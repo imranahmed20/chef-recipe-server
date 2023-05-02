@@ -1,11 +1,12 @@
 [
     {
-        "id": 1,
-        "name": "John Smith",
+        "id": "1",
+        "name": "Michael Ellis",
         "image": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
         "experience": "10 years",
         "numOfRecipes": 50,
         "likes": 1000,
+        "description": "Michael Ellis, the director of Michelin's Guide, explained the reason behind chef Ramsay's loss of his Michelin Stars is inconsistency. “The inspectors were disappointed with the consistency of the food,” he said.",
         "recipes": [
             {
                 "id": 1,
@@ -36,12 +37,13 @@
         ]
     },
     {
-        "id": 2,
+        "id": "2",
         "name": "Thomas Keller",
         "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
         "experience": "10 years",
         "numOfRecipes": 50,
         "likes": 1000,
+        "description": "Chef Thomas Keller is renowned for his culinary skills and high standards. He has established a collection of restaurants that sets a new paradigm within the hospitality profession, including The French Laundry, in Napa Valley, and Per Se, in New York, among others.",
         "recipes": [
             {
                 "id": 1,
@@ -57,7 +59,7 @@
                 "likes": 500
             },
             {
-                "id": 2,
+                "id": "3",
                 "title": "Chocolate Cake",
                 "ingredients": [
                     "flour",
@@ -72,12 +74,13 @@
         ]
     },
     {
-        "id": 3,
+        "id": "3",
         "name": "Wolfgang Puck",
         "image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
         "experience": "10 years",
         "numOfRecipes": 50,
         "likes": 1000,
+        "description": "Wolfgang Puck was pivotal in the rise of California cuisine during the late 1970s. He also launched modern fusion cuisine by combining classic French techniques with California and Asian influences, using fresh ingredients showcasing California's agricultural bounty.",
         "recipes": [
             {
                 "id": 1,
@@ -108,12 +111,13 @@
         ]
     },
     {
-        "id": 4,
+        "id": "4",
         "name": "Mirazur khan",
         "image": "https://img.freepik.com/free-photo/young-male-cook-wearing-chef-uniform-glasses-showing-with-hand-white-wall_141793-81487.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
         "experience": "10 years",
         "numOfRecipes": 50,
         "likes": 1000,
+        "description": "Mirazur khan was pivotal in the rise of California cuisine during the late 1970s. He also launched modern fusion cuisine by combining classic French techniques with California and Asian influences, using fresh ingredients showcasing California's agricultural bounty.",
         "recipes": [
             {
                 "id": 1,
@@ -144,11 +148,12 @@
         ]
     },
     {
-        "id": 5,
+        "id": "5",
         "name": "Grant Achatz ",
         "image": "https://img.freepik.com/free-photo/chef-posing-with-knife-his-kitchen_155003-502.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
         "experience": "10 years",
         "numOfRecipes": 50,
+        "description": "Achatz found a clinical trial at the University of Chicago that agreed to treat him with radiation and chemotherapy. The radiation treatments burned his tongue, shed the lining of his esophagus — and completely destroyed his taste buds.",
         "likes": 1000,
         "recipes": [
             {
@@ -180,12 +185,13 @@
         ]
     },
     {
-        "id": 6,
+        "id": "6",
         "name": "William Smith",
         "image": "https://img.freepik.com/free-photo/smiling-young-handsome-cook-chef-uniform-doing-ok-sign-showing-empty-hand-isolated-pink-space_141793-44847.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
         "experience": "10 years",
         "numOfRecipes": 50,
         "likes": 1000,
+        "description": "John Smith is a professional chef with over 10 years of experience in Italian and French cuisine.",
         "recipes": [
             {
                 "id": 1,

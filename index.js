@@ -17,7 +17,6 @@ app.get('/categories', (req, res) => {
 app.get('/categories/:id', (req, res) => {
     const id = req.params.id;
     const selectedNews = categories.find(n => n.id === id)
-    console.log(selectedNews)
     res.send(selectedNews)
 })
 
