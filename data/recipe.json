@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "John Smith",
-        "image": "https://example.com/john-smith.jpg",
+        "image": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
         "experience": "10 years",
         "numOfRecipes": 50,
         "likes": 1000,
@@ -36,9 +36,9 @@
         ]
     },
     {
-        "id": 1,
-        "name": "John Smith",
-        "image": "https://example.com/john-smith.jpg",
+        "id": 2,
+        "name": "Thomas Keller",
+        "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
         "experience": "10 years",
         "numOfRecipes": 50,
         "likes": 1000,
@@ -72,9 +72,9 @@
         ]
     },
     {
-        "id": 1,
-        "name": "John Smith",
-        "image": "https://example.com/john-smith.jpg",
+        "id": 3,
+        "name": "Wolfgang Puck",
+        "image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
         "experience": "10 years",
         "numOfRecipes": 50,
         "likes": 1000,
@@ -108,9 +108,9 @@
         ]
     },
     {
-        "id": 1,
-        "name": "John Smith",
-        "image": "https://example.com/john-smith.jpg",
+        "id": 4,
+        "name": "Mirazur khan",
+        "image": "https://img.freepik.com/free-photo/young-male-cook-wearing-chef-uniform-glasses-showing-with-hand-white-wall_141793-81487.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
         "experience": "10 years",
         "numOfRecipes": 50,
         "likes": 1000,
@@ -144,9 +144,9 @@
         ]
     },
     {
-        "id": 1,
-        "name": "John Smith",
-        "image": "https://example.com/john-smith.jpg",
+        "id": 5,
+        "name": "Grant Achatz ",
+        "image": "https://img.freepik.com/free-photo/chef-posing-with-knife-his-kitchen_155003-502.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
         "experience": "10 years",
         "numOfRecipes": 50,
         "likes": 1000,
@@ -180,9 +180,9 @@
         ]
     },
     {
-        "id": 1,
-        "name": "John Smith",
-        "image": "https://example.com/john-smith.jpg",
+        "id": 6,
+        "name": "William Smith",
+        "image": "https://img.freepik.com/free-photo/smiling-young-handsome-cook-chef-uniform-doing-ok-sign-showing-empty-hand-isolated-pink-space_141793-44847.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
         "experience": "10 years",
         "numOfRecipes": 50,
         "likes": 1000,
