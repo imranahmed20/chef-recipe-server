@@ -3,21 +3,22 @@
         "id": "1",
         "name": "Michael Ellis",
         "image": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
-        "experience": "10 years",
+        "experience": "13 years",
         "numOfRecipes": 50,
-        "likes": 1000,
+        "likes": 1350,
         "description": "Michael Ellis, the director of Michelin's Guide, explained the reason behind chef Ramsay's loss of his Michelin Stars is inconsistency. “The inspectors were disappointed with the consistency of the food,” he said.",
         "recipes": [
             {
                 "id": 1,
                 "title": "Pesto Pasta",
                 "ingredients": [
-                    "pasta",
-                    "basil",
-                    "pine nuts",
-                    "garlic"
+                    "Pasta",
+                    "Granulars",
+                    "Pine nuts",
+                    "Garlic",
+                    "Semolina"
                 ],
-                "instructions": "Cook the pasta. Blend the basil, pine nuts, and garlic. Mix with pasta.",
+                "instructions": "Add pesto and 1 to 2 tablespoons of pasta water to the spaghetti. Toss to coat the spaghetti in the pesto, adding more water if required to make the pasta silky and soft. Add 2 tablespoons of Parmesan and toss. Taste the spaghetti and add a pinch of salt if necessary",
                 "image": "https://img.freepik.com/free-photo/pasta-fettuccine-bolognese-with-tomato-sauce-white-bowl_2829-20035.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
                 "rating": 4.5
             },
@@ -25,12 +26,13 @@
                 "id": 2,
                 "title": "Barger",
                 "ingredients": [
-                    "pasta",
-                    "basil",
-                    "pine nuts",
-                    "garlic"
+                    "Salt",
+                    "Egg",
+                    "Onion",
+                    "Lettuce",
+                    "Bacon"
                 ],
-                "instructions": "Cook the pasta. Blend the basil, pine nuts, and garlic. Mix with pasta.",
+                "instructions": "Cook the Barger. In a bowl, combine the beef mince with the herbs and the egg. Season, add the onions and mix well. Using your hands, shape into 4 patties. Cook the burgers on a preheated barbecue or griddle for 5-6 minutes on each side.So ready the barger and eat",
                 "image": "https://img.freepik.com/free-photo/double-hamburger-isolated-white-background-fresh-burger-fast-food-with-beef-cream-cheese_90220-1192.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
                 "rating": 4.8
             },
@@ -38,12 +40,13 @@
                 "id": 3,
                 "title": "Chocolate Cake",
                 "ingredients": [
-                    "flour",
-                    "sugar",
-                    "cocoa powder",
-                    "eggs"
+                    "Flour",
+                    "Sugar",
+                    "Cocoa powder",
+                    "Eggs",
+                    "Salt"
                 ],
-                "instructions": "Mix all the ingredients together. Bake in the oven.",
+                "instructions": "Mix all the ingredients together. Bake in the oven.There are three basic methods of making cake mixtures. Victoria sponge is produced by the creaming method. Flour and baking powder are sieved and, after the eggs added to the well – creamed butter and sugar.",
                 "image": "https://img.freepik.com/free-photo/chocolate-cake-with-chocolate-sprinkles_144627-8998.jpg?size=626&ext=jpg&ga=GA1.1.426682711.1665547352&semt=robertav1_2_sidr",
                 "rating": 4.9
             }
@@ -54,18 +57,19 @@
         "name": "Thomas Keller",
         "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
         "experience": "10 years",
-        "numOfRecipes": 50,
-        "likes": 1000,
+        "numOfRecipes": 45,
+        "likes": 1200,
         "description": "Chef Thomas Keller is renowned for his culinary skills and high standards. He has established a collection of restaurants that sets a new paradigm within the hospitality profession, including The French Laundry, in Napa Valley, and Per Se, in New York, among others.",
         "recipes": [
             {
                 "id": 1,
                 "title": "Pesto Pasta",
                 "ingredients": [
-                    "pasta",
-                    "basil",
-                    "pine nuts",
-                    "garlic"
+                    "Pasta",
+                    "Granulars",
+                    "Pine nuts",
+                    "Garlic",
+                    "Semolina"
                 ],
                 "instructions": "Cook the pasta. Blend the basil, pine nuts, and garlic. Mix with pasta.",
                 "image": "https://img.freepik.com/free-photo/pasta-fettuccine-bolognese-with-tomato-sauce-white-bowl_2829-20035.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
@@ -75,10 +79,11 @@
                 "id": 2,
                 "title": "Barger",
                 "ingredients": [
-                    "pasta",
-                    "basil",
-                    "pine nuts",
-                    "garlic"
+                    "Salt",
+                    "Egg",
+                    "Onion",
+                    "Lettuce",
+                    "Bacon"
                 ],
                 "instructions": "Cook the pasta. Blend the basil, pine nuts, and garlic. Mix with pasta.",
                 "image": "https://img.freepik.com/free-photo/double-hamburger-isolated-white-background-fresh-burger-fast-food-with-beef-cream-cheese_90220-1192.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
@@ -88,10 +93,11 @@
                 "id": 3,
                 "title": "Chocolate Cake",
                 "ingredients": [
-                    "flour",
-                    "sugar",
-                    "cocoa powder",
-                    "eggs"
+                    "Flour",
+                    "Sugar",
+                    "Cocoa powder",
+                    "Eggs",
+                    "Salt"
                 ],
                 "instructions": "Mix all the ingredients together. Bake in the oven.",
                 "image": "https://img.freepik.com/free-photo/chocolate-cake-with-chocolate-sprinkles_144627-8998.jpg?size=626&ext=jpg&ga=GA1.1.426682711.1665547352&semt=robertav1_2_sidr",
@@ -103,19 +109,20 @@
         "id": "3",
         "name": "Wolfgang Puck",
         "image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
-        "experience": "10 years",
-        "numOfRecipes": 50,
-        "likes": 1000,
+        "experience": "12 years",
+        "numOfRecipes": 55,
+        "likes": 1250,
         "description": "Wolfgang Puck was pivotal in the rise of California cuisine during the late 1970s. He also launched modern fusion cuisine by combining classic French techniques with California and Asian influences, using fresh ingredients showcasing California's agricultural bounty.",
         "recipes": [
             {
                 "id": 1,
                 "title": "Pesto Pasta",
                 "ingredients": [
-                    "pasta",
-                    "basil",
-                    "pine nuts",
-                    "garlic"
+                    "Pasta",
+                    "Granulars",
+                    "Pine nuts",
+                    "Garlic",
+                    "Semolina"
                 ],
                 "instructions": "Cook the pasta. Blend the basil, pine nuts, and garlic. Mix with pasta.",
                 "image": "https://img.freepik.com/free-photo/pasta-fettuccine-bolognese-with-tomato-sauce-white-bowl_2829-20035.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
@@ -125,10 +132,11 @@
                 "id": 2,
                 "title": "Barger",
                 "ingredients": [
-                    "pasta",
-                    "basil",
-                    "pine nuts",
-                    "garlic"
+                    "Salt",
+                    "Egg",
+                    "Onion",
+                    "Lettuce",
+                    "Bacon"
                 ],
                 "instructions": "Cook the pasta. Blend the basil, pine nuts, and garlic. Mix with pasta.",
                 "image": "https://img.freepik.com/free-photo/double-hamburger-isolated-white-background-fresh-burger-fast-food-with-beef-cream-cheese_90220-1192.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
@@ -138,10 +146,11 @@
                 "id": 3,
                 "title": "Chocolate Cake",
                 "ingredients": [
-                    "flour",
-                    "sugar",
-                    "cocoa powder",
-                    "eggs"
+                    "Flour",
+                    "Sugar",
+                    "Cocoa powder",
+                    "Eggs",
+                    "Salt"
                 ],
                 "instructions": "Mix all the ingredients together. Bake in the oven.",
                 "image": "https://img.freepik.com/free-photo/chocolate-cake-with-chocolate-sprinkles_144627-8998.jpg?size=626&ext=jpg&ga=GA1.1.426682711.1665547352&semt=robertav1_2_sidr",
@@ -153,19 +162,20 @@
         "id": "4",
         "name": "Heston Blumenthal",
         "image": "https://img.freepik.com/free-photo/young-male-cook-wearing-chef-uniform-glasses-showing-with-hand-white-wall_141793-81487.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
-        "experience": "10 years",
-        "numOfRecipes": 50,
-        "likes": 1000,
+        "experience": "11 years",
+        "numOfRecipes": 61,
+        "likes": 1120,
         "description": "Heston Blumenthal was pivotal in the rise of California cuisine during the late 1970s. He also launched modern fusion cuisine by combining classic French techniques with California and Asian influences, using fresh ingredients showcasing California's agricultural bounty.",
         "recipes": [
             {
                 "id": 1,
                 "title": "Pesto Pasta",
                 "ingredients": [
-                    "pasta",
-                    "basil",
-                    "pine nuts",
-                    "garlic"
+                    "Pasta",
+                    "Granulars",
+                    "Pine nuts",
+                    "Garlic",
+                    "Semolina"
                 ],
                 "instructions": "Cook the pasta. Blend the basil, pine nuts, and garlic. Mix with pasta.",
                 "image": "https://img.freepik.com/free-photo/pasta-fettuccine-bolognese-with-tomato-sauce-white-bowl_2829-20035.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
@@ -175,10 +185,11 @@
                 "id": 2,
                 "title": "Barger",
                 "ingredients": [
-                    "pasta",
-                    "basil",
-                    "pine nuts",
-                    "garlic"
+                    "Salt",
+                    "Egg",
+                    "Onion",
+                    "Lettuce",
+                    "Bacon"
                 ],
                 "instructions": "Cook the pasta. Blend the basil, pine nuts, and garlic. Mix with pasta.",
                 "image": "https://img.freepik.com/free-photo/double-hamburger-isolated-white-background-fresh-burger-fast-food-with-beef-cream-cheese_90220-1192.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
@@ -188,10 +199,11 @@
                 "id": 3,
                 "title": "Chocolate Cake",
                 "ingredients": [
-                    "flour",
-                    "sugar",
-                    "cocoa powder",
-                    "eggs"
+                    "Flour",
+                    "Sugar",
+                    "Cocoa powder",
+                    "Eggs",
+                    "Salt"
                 ],
                 "instructions": "Mix all the ingredients together. Bake in the oven.",
                 "image": "https://img.freepik.com/free-photo/chocolate-cake-with-chocolate-sprinkles_144627-8998.jpg?size=626&ext=jpg&ga=GA1.1.426682711.1665547352&semt=robertav1_2_sidr",
@@ -203,19 +215,20 @@
         "id": "5",
         "name": "Grant Achatz ",
         "image": "https://img.freepik.com/free-photo/chef-posing-with-knife-his-kitchen_155003-502.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
-        "experience": "10 years",
-        "numOfRecipes": 50,
+        "experience": "8 years",
+        "numOfRecipes": 52,
         "description": "Achatz found a clinical trial at the University of Chicago that agreed to treat him with radiation and chemotherapy. The radiation treatments burned his tongue, shed the lining of his esophagus — and completely destroyed his taste buds.",
-        "likes": 1000,
+        "likes": 1050,
         "recipes": [
             {
                 "id": 1,
                 "title": "Pesto Pasta",
                 "ingredients": [
-                    "pasta",
-                    "basil",
-                    "pine nuts",
-                    "garlic"
+                    "Pasta",
+                    "Granulars",
+                    "Pine nuts",
+                    "Garlic",
+                    "Semolina"
                 ],
                 "instructions": "Cook the pasta. Blend the basil, pine nuts, and garlic. Mix with pasta.",
                 "image": "https://img.freepik.com/free-photo/pasta-fettuccine-bolognese-with-tomato-sauce-white-bowl_2829-20035.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
@@ -225,10 +238,11 @@
                 "id": 2,
                 "title": "Barger",
                 "ingredients": [
-                    "pasta",
-                    "basil",
-                    "pine nuts",
-                    "garlic"
+                    "Salt",
+                    "Egg",
+                    "Onion",
+                    "Lettuce",
+                    "Bacon"
                 ],
                 "instructions": "Cook the pasta. Blend the basil, pine nuts, and garlic. Mix with pasta.",
                 "image": "https://img.freepik.com/free-photo/double-hamburger-isolated-white-background-fresh-burger-fast-food-with-beef-cream-cheese_90220-1192.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
@@ -238,10 +252,11 @@
                 "id": 3,
                 "title": "Chocolate Cake",
                 "ingredients": [
-                    "flour",
-                    "sugar",
-                    "cocoa powder",
-                    "eggs"
+                    "Flour",
+                    "Sugar",
+                    "Cocoa powder",
+                    "Eggs",
+                    "Salt"
                 ],
                 "instructions": "Mix all the ingredients together. Bake in the oven.",
                 "image": "https://img.freepik.com/free-photo/chocolate-cake-with-chocolate-sprinkles_144627-8998.jpg?size=626&ext=jpg&ga=GA1.1.426682711.1665547352&semt=robertav1_2_sidr",
@@ -253,19 +268,20 @@
         "id": "6",
         "name": "William Smith",
         "image": "https://img.freepik.com/free-photo/smiling-young-handsome-cook-chef-uniform-doing-ok-sign-showing-empty-hand-isolated-pink-space_141793-44847.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
-        "experience": "10 years",
-        "numOfRecipes": 50,
-        "likes": 1000,
+        "experience": "9 years",
+        "numOfRecipes": 46,
+        "likes": 1125,
         "description": "John Smith is a professional chef with over 10 years of experience in Italian and French cuisine.",
         "recipes": [
             {
                 "id": 1,
                 "title": "Pesto Pasta",
                 "ingredients": [
-                    "pasta",
-                    "basil",
-                    "pine nuts",
-                    "garlic"
+                    "Pasta",
+                    "Granulars",
+                    "Pine nuts",
+                    "Garlic",
+                    "Semolina"
                 ],
                 "instructions": "Cook the pasta. Blend the basil, pine nuts, and garlic. Mix with pasta.",
                 "image": "https://img.freepik.com/free-photo/pasta-fettuccine-bolognese-with-tomato-sauce-white-bowl_2829-20035.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
@@ -275,10 +291,11 @@
                 "id": 2,
                 "title": "Barger",
                 "ingredients": [
-                    "pasta",
-                    "basil",
-                    "pine nuts",
-                    "garlic"
+                    "Salt",
+                    "Egg",
+                    "Onion",
+                    "Lettuce",
+                    "Bacon"
                 ],
                 "instructions": "Cook the pasta. Blend the basil, pine nuts, and garlic. Mix with pasta.",
                 "image": "https://img.freepik.com/free-photo/double-hamburger-isolated-white-background-fresh-burger-fast-food-with-beef-cream-cheese_90220-1192.jpg?size=626&ext=jpg&ga=GA1.2.426682711.1665547352&semt=robertav1_2_sidr",
@@ -288,10 +305,11 @@
                 "id": 3,
                 "title": "Chocolate Cake",
                 "ingredients": [
-                    "flour",
-                    "sugar",
-                    "cocoa powder",
-                    "eggs"
+                    "Flour",
+                    "Sugar",
+                    "Cocoa powder",
+                    "Eggs",
+                    "Salt"
                 ],
                 "instructions": "Mix all the ingredients together. Bake in the oven.",
                 "image": "https://img.freepik.com/free-photo/chocolate-cake-with-chocolate-sprinkles_144627-8998.jpg?size=626&ext=jpg&ga=GA1.1.426682711.1665547352&semt=robertav1_2_sidr",
